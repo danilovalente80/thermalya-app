@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091013223325",
+    "project_id": "thermalya-cebea",
+    "storage_bucket": "thermalya-cebea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091013223325:android:217c5c63a80a0b0d180574",
+        "android_client_info": {
+          "package_name": "com.example.thermalya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Sh0TztSGoMve3DcX0GSwY-72OFc1Hbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
